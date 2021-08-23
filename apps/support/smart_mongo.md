@@ -3,7 +3,7 @@
 Smart Mongo is a database application developed for mongodb. You can create multiple mongodb connections in Smart Mongo.
 Smart Mongo provides a convenient way to create documents and query documents. The easy-to-use document editor and queryer are worthy of your use.
 
-Main features:
+**Main features:**
 - Manage connections database and collections
 - Convenient document editor
 - Convenient document queryer

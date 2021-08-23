@@ -4,7 +4,7 @@
 
 Smart Mongo values ​​the privacy of users. When you use our services, we may collect and use your relevant information. We hope to use this "Privacy Policy" to explain to you how we collect, use, store and share this information when using our services, as well as the ways we can provide you with access, update, control and protection of this information. This "Privacy Policy" is closely related to the Smart Mongo service you use. I hope you will read it carefully, and if necessary, follow the guidelines of this "Privacy Policy" to make the choices you think are appropriate. We try to express the relevant technical vocabulary in this "Privacy Policy" in a concise and concise manner, and provide links to further explanations for your understanding.
 
-** Your use or continued use of our services means that you agree to our collection, use, storage and sharing of your relevant information in accordance with this "Privacy Policy". **
+**Your use or continued use of our services means that you agree to our collection, use, storage and sharing of your relevant information in accordance with this "Privacy Policy".**
 
 If you have any questions about this "Privacy Policy" or related matters, please contact us at yyzs.apps@gmail.com.
 
@@ -89,7 +89,7 @@ We use various security technologies and procedures to prevent loss, improper us
 
 Many of our services allow you to publicly share your relevant information not only with your own social network, but also with all users who use the service. For example, the information you upload or publish in our services (including your public Personal information, lists created by you), your response to information uploaded or posted by other people, and location data and log information related to this information. Other users who use our services may also share information about you (including location data and log information). In particular, our social media services are specifically designed to enable you to share information with users all over the world, and you can make shared information be delivered in real time and widely. As long as you do not delete the shared information, the relevant information will remain in the public domain; even if you delete the shared information, the relevant information may still be independently cached, copied or stored by other users or unaffiliated third parties not under our control, or by other The user or such third party keeps it in the public domain.
 
-**Therefore, please carefully consider the content of information uploaded, published and exchanged through our services. **In some cases, you can control the range of users who have the right to browse your shared information through the privacy settings of some of our services. If you request to delete your relevant information from our services, please operate through the methods provided in these special terms of service.
+**Therefore, please carefully consider the content of information uploaded, published and exchanged through our services.**In some cases, you can control the range of users who have the right to browse your shared information through the privacy settings of some of our services. If you request to delete your relevant information from our services, please operate through the methods provided in these special terms of service.
 
 ## Sensitive personal information you share
 
@@ -97,7 +97,7 @@ Certain personal information may be considered sensitive personal information du
 
 Please note that the content and information you provide, upload or post when you use our services (such as photos about your social activities) may reveal your sensitive personal information. You need to carefully consider whether to disclose relevant sensitive personal information when using our services.
 
-**You agree to handle your sensitive personal information in accordance with the purposes and methods described in this "Privacy Policy". **
+**You agree to handle your sensitive personal information in accordance with the purposes and methods described in this "Privacy Policy".**
 
 ## How we may collect information
 
@@ -143,7 +143,7 @@ Our services may include or link to social media or other services (including we
 * You use the "Share" button share some content to our service, or you may use a third-party connection service to log in to our service. These functions may collect your relevant information (including your log information), and may install cookies on your computer, so as to operate the above functions normally;
 * We provide you with links through advertisements or other methods of our services so that you can access third-party services or websites.
 
-Such third-party social media or other services may be operated by relevant third parties or us. Your use of such third party’s social media services or other services (including any personal information you provide to such third parties) is subject to the third party’s terms of service and privacy policy (not the "General Terms of Service" or this " "Privacy Policy"), you need to read its terms carefully. **This "Privacy Policy" only applies to the information we collect, and does not apply to any third party services or third party information usage rules. We are not responsible for any third party's use of the information provided by you. **
+Such third-party social media or other services may be operated by relevant third parties or us. Your use of such third party’s social media services or other services (including any personal information you provide to such third parties) is subject to the third party’s terms of service and privacy policy (not the "General Terms of Service" or this " "Privacy Policy"), you need to read its terms carefully. **This "Privacy Policy" only applies to the information we collect, and does not apply to any third party services or third party information usage rules. We are not responsible for any third party's use of the information provided by you.**
 
 ## Minors use our services
 
@@ -162,4 +162,4 @@ Except as otherwise provided in this "Privacy Policy", the terms used in this "P
 
 ## Change
 
-We may revise the terms of this "Privacy Policy" in due course, and such revisions form part of this "Privacy Policy". **If such amendments result in a substantial reduction of your rights under this "Privacy Policy", we will notify you through a prominent position on the homepage or send you an email or other means before the amendment takes effect. In this case, if you continue to use our services, you agree to be bound by the revised "Privacy Policy". **
+We may revise the terms of this "Privacy Policy" in due course, and such revisions form part of this "Privacy Policy". **If such amendments result in a substantial reduction of your rights under this "Privacy Policy", we will notify you through a prominent position on the homepage or send you an email or other means before the amendment takes effect. In this case, if you continue to use our services, you agree to be bound by the revised "Privacy Policy".**
